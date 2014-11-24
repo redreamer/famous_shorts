@@ -1,4 +1,4 @@
 Famous_shorts
 =============
 
-Testing this fun stuff, and living a coders dream.
+Testing this fun stuff, writing up js code
