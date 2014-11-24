@@ -1,4 +1,4 @@
-famous_shorts
+Famous_shorts
 =============
 
-testing this fun stuff
+Testing this fun stuff, writing up js code
